@@ -1,6 +1,6 @@
 ```shell
 cd live-backend/live-backend-common
-mvn install
+mvn clean install
 cd ../live-backend-mp 
-mvn package
+mvn clean package
 ```
